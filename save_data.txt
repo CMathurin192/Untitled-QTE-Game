@@ -1,1 +1,0 @@
-{'player.animal': 'cat', 'player.skin_number': 13, 'player2.animal': 'dog', 'player2.skin_number': 14, 'cpu.animal': 'cat', 'cpu.skin_number': 0}
